@@ -12,4 +12,4 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> Vue.js
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> TailwindCSS
 
-<h5> Demorei para fazer esse projeto, fazer em vue.js, foi diferente, usei outras repositorio como Pinia, Uniqolor para cor, e o proprio material design do Vue</h5>
+<h5> Demorei para fazer esse projeto, fazer em vue.js, foi diferente, usei outras repositorio como Pinia, Uniqolor para cor, e o proprio material design do Vue https://reprodutordemusicavue.vercel.app/</h5>
