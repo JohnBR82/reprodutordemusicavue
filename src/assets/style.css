@@ -1,0 +1,17 @@
+
+  body {
+    scrollbar-width: thin;          /* "auto" or "thin" */
+    scrollbar-color: #8B0000 black;   /* scroll thumb and track */
+  }
+  *::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #8B0000;
+    border-radius: 20px;
+  }

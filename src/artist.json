@@ -1,0 +1,62 @@
+{
+    "name": "Fotografia De Um Instante",
+    "albumCover": "/images/albumCovers/FotografiaDeUmInstante.png",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Sem Graça",
+            "path": "/sons/Sem Graça.mp3"
+        },
+        {
+            "id": 2,
+            "name": "De Longe",
+            "path": "/sons/De Longe.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Manimal",
+            "path": "/sons/Manimal.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Matéria Escura",
+            "path": "/sons/Matéria Escura.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Purgatório",
+            "path": "/sons/Purgatório.mp3"
+        },
+        {
+            "id": 6,
+            "name": "De Onde Estou",
+            "path": "/sons/De Onde Estou.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Mente do Compositor",
+            "path": "/sons/Mente do Compositor.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Desilusões de Um Vira-Lata",
+            "path": "/sons/Desilusões de Um Vira-Lata.mp3"
+        },
+        {
+            "id": 9,
+            "name": "A Praia",
+            "path": "/sons/A Praia.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Hora do Rush-Yalamahala!",
+            "path": "/sons/Hora do Rush-Yalamahala!.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Ego",
+            "path": "/sons/Ego.mp3"
+        }
+    ]
+}
